@@ -1348,7 +1348,7 @@
     utility-types "^3.10.0"
     webpack "^5.61.0"
 
-"@docusaurus/plugin-content-pages@2.0.0-beta.15":
+"@docusaurus/plugin-content-pages@2.0.0-beta.15", "@docusaurus/plugin-content-pages@^2.0.0-beta.15":
   version "2.0.0-beta.15"
   resolved "https://registry.yarnpkg.com/@docusaurus/plugin-content-pages/-/plugin-content-pages-2.0.0-beta.15.tgz#e488f7dcdd45cd1d46e8c2c5ff5275327a6a3c65"
   integrity sha512-N7YhW5RiOY6J228z4lOoP//qX0Q48cRtxDONZ/Ohd9C5OI2vS6TD8iQuDqOIYHxH+BshjNSsKvbJ+SMIQDwysg==
