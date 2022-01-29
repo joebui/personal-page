@@ -20,10 +20,7 @@ function HomepageHeader() {
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout
-      title={siteConfig.title}
-      description={`Welcome to ${siteConfig.title}`}
-    >
+    <Layout title="Home" description={`Welcome to ${siteConfig.title}`}>
       <HomepageHeader />
       <main>
         <HomepageFeatures />

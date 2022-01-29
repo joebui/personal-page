@@ -1,21 +1,19 @@
 // @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
-
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
-const { cocoon, github, linkedin, about, blog } = require("./constant");
+const { cocoon, github, linkedin, about, blog, TITLE } = require("./constant");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Dien Bui's page",
+  title: TITLE,
   tagline: "Hello there! Welcome to Dien's humble personal page",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/logo.png",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "joebui",
+  projectName: "personal-page",
 
   presets: [
     [
@@ -42,9 +40,9 @@ const config = {
         defaultMode: "dark",
       },
       navbar: {
-        title: "Dien Bui's page",
+        title: TITLE,
         logo: {
-          alt: "My Site Logo",
+          alt: "My octocat",
           src: "img/logo.png",
         },
         items: [
@@ -76,7 +74,7 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Content",
+            title: "Sites",
             items: [
               {
                 label: about.TITLE,
