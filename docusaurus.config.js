@@ -3,12 +3,7 @@
 
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
-const {
-  GITHUB_REPO_URL,
-  LINKEDIN_PROFILE_URL,
-  LINKEDIN,
-  GITHUB,
-} = require("./constant");
+const { cocoon, github, linkedin, about, blog } = require("./constant");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -57,17 +52,22 @@ const config = {
             type: "doc",
             docId: "whoami",
             position: "left",
-            label: "About",
+            label: about.TITLE,
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: blog.PATH, label: blog.TITLE, position: "left" },
           {
-            href: LINKEDIN_PROFILE_URL,
-            label: LINKEDIN,
+            to: cocoon.PROJECT_COCOON_PATH,
+            label: cocoon.PROJECT_COCOON,
+            position: "left",
+          },
+          {
+            href: linkedin.LINKEDIN_PROFILE_URL,
+            label: linkedin.LINKEDIN,
             position: "right",
           },
           {
-            href: GITHUB_REPO_URL,
-            label: GITHUB,
+            href: github.GITHUB_REPO_URL,
+            label: github.GITHUB,
             position: "right",
           },
         ],
@@ -76,15 +76,19 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Content",
             items: [
               {
-                label: "About",
-                to: "/docs/whoami",
+                label: about.TITLE,
+                to: about.PATH,
               },
               {
-                label: "Blog",
-                to: "/blog",
+                label: blog.TITLE,
+                to: blog.PATH,
+              },
+              {
+                label: cocoon.PROJECT_COCOON,
+                to: cocoon.PROJECT_COCOON_PATH,
               },
             ],
           },
@@ -92,8 +96,8 @@ const config = {
             title: "Social network",
             items: [
               {
-                label: LINKEDIN,
-                href: LINKEDIN_PROFILE_URL,
+                label: linkedin.LINKEDIN,
+                href: linkedin.LINKEDIN_PROFILE_URL,
               },
             ],
           },
@@ -101,13 +105,18 @@ const config = {
             title: "More",
             items: [
               {
-                label: GITHUB,
-                href: GITHUB_REPO_URL,
+                label: github.GITHUB,
+                href: github.GITHUB_REPO_URL,
+              },
+              {
+                label: cocoon.PROJECT_COCOON,
+                href: cocoon.PROJECT_COCOON_URL,
               },
             ],
           },
         ],
-        copyright: `${new Date().getFullYear()} - Dien Bui's page. Built with Docusaurus. Hosted on CloudFlare Page`,
+        copyright:
+          "Dien Bui's page. Built with Docusaurus. Hosted on CloudFlare Page",
       },
       prism: {
         theme: lightCodeTheme,
