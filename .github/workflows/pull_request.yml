@@ -17,3 +17,5 @@ jobs:
         run: yarn typecheck
       - name: Build artifact
         run: yarn build
+      - name: View artifact
+        run: tree build
