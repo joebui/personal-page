@@ -1,4 +1,5 @@
 module.exports = {
+  TITLE: "Dien Bui's page",
   linkedin: {
     LINKEDIN: "LinkedIn®",
     LINKEDIN_PROFILE_URL: "https://www.linkedin.com/in/dienbui",
