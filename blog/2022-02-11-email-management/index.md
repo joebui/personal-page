@@ -56,6 +56,14 @@ The solution for this is to clean up Inbox as much as possible.
 
 In the end, you will have a very clean Inbox with mainly new mails to check out (like my cover photo above taken from my mailboxes)
 
+## Extra: leverage keyboard shortcut
+
+As a software engineer, I love keyboard shortcut for faster navigation and action around the mailbox as compared to using mouse. You can do things with keyboard like you do with mouse clicking, but faster.
+
+No one wants to spend lots of time in mailbox and you can simply open, mark as ready, delete, archive,... mail with pressing few buttons. Both Gmail and Outlook offer good keyboard shortcut.
+
+To view list of shortcuts, simply press `Shift + ?` when opening gmail/outlook
+
 ## Conclusion
 
 Those are my tips for better email management. It may take time at first but you will be grateful later on ;).
