@@ -17,7 +17,7 @@ You may not care much or don't have time for email management, both your persona
 This is how I label my mail:
 
 - **Identify a pattern** of mails you've been receiving so far (e.g. Medium newsletter, e-commerce, reminder, job finding)
-- **Create label per pattern** you identify. Try to use **lowercase/Uppercase letter with no space** and choose **color** to easily distinguish (color can be helpful when browing bunches of emails with diffent labels).
+- **Create label per pattern** you identify. Try to use **lowercase/Uppercase letter with no space** and choose **color** to easily distinguish (color can be helpful when browsing bunches of emails with different labels).
 - When new email comes, identify the pattern and **assign a known label** to it
 - If pattern is _new or rarely occurs_ and you don't know which label to assign to, you can either leave it unlabeled or create and assign `tbd` label to it.
 
@@ -49,7 +49,7 @@ Imagine you go to your mailbox and see lots of unread and read emails in inbox, 
 
 The solution for this is to clean up Inbox as much as possible.
 
-- Most of your mails don't need to stay in Inbox (newsletter, reminder, e-commernce, billing confirmation,...) and you can simply `archive` them or even `delete` once you finish reading.
+- Most of your mails don't need to stay in Inbox (newsletter, reminder, e-commerce, billing confirmation,...) and you can simply `archive` them or even `delete` once you finish reading.
 - `Archive` is suitable for mail you won't read again but will **need it in far future for evidence or verification** such as billing
 - `Delete` works best for **read-once** mail like advertisement or calendar's event
 - You can keep mails you will follow up in near future (should NOT be over 1 month) in Inbox for quick access and reminding.

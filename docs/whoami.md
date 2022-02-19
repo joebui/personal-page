@@ -22,15 +22,15 @@ I have had experience with the following technology stacks:
 - **Event-driven broker**: Kafka, RabbitMQ
 - **Database**: SQL, MySQL, PostgreSQL, Elasticsearch
 - **Devops tools**: Terraform, Ansible, Jenkins, Nginx, Docker
-- **Cloud computing & infrastructure**: Amazon Web Services (AWS), microservices
+- **Cloud computing & infrastructure**: Amazon Web Services (AWS), microservice
 
-One of my achivements that I feel most proud of is the [AWS Certified Solutions Architect Associate certificate](https://www.credly.com/badges/18a9090a-0626-4fbb-8d4e-7060f8d94735)
+One of my achievements that I feel most proud of is the [AWS Certified Solutions Architect Associate certificate](https://www.credly.com/badges/18a9090a-0626-4fbb-8d4e-7060f8d94735)
 
 ## My unique personality
 
 - I always believe no one is perfect, everyone has their strengths and weaknesses. Even with 5 years of working experience, I
   see myself still need improvement, gain more knowledge and experience in algorithms and leadership.
-- Ethusiastic engineer who is eager to learn new things, spending time reading and researching more about web development,
+- Enthusiastic engineer who is eager to learn new things, spending time reading and researching more about web development,
   backend, devops, cloud computing and data engineering.
 - Interested in working at a software company (either startup or enterprise) where he can meet creative and enthusiastic engineers, learn from them and contribute to make company's product better.
 - Love writing tech articles and shares knowledge.
