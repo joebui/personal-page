@@ -40,8 +40,8 @@ One of my achievements that I feel most proud of is the [AWS Certified Solutions
 If you want to reach out to me for work or even non-work stuffs, please feel free to reach out to me via any of these methods:
 
 - **Email**:
-  - work: <dienbuijoe@outlook.com>
-  - non-work: <dienbui11@gmail.com>
+  - work: <dienbui11@gmail.com>
+  - non-work: <dienbuijoe@outlook.com>
 - **LinkedIn®**: <https://www.linkedin.com/in/dienbui>
 - **Telegram**: `@joebui`
 - **Skype** (not frequently used): `dien_bui`

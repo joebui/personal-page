@@ -10,6 +10,8 @@ sidebar_position: 2
 
 - Refactoring CI/CD configuration of microservices and web apps to adapt with NAB's engineering standard, which also adheres to enterprise compliance,
   improves code quality and security and ensure CI/CD's consistency across multiple services within NAB.
+- Received NAB recognition from Engineering Manager in Melbourne team for consistent engagement in all development aspect, deep technical and business knowledge, commitment and high quality delivery of important features.
+- Integrated existing microfrontends with AppDynamic to setup real user monitoring (RUM).
 - Implemented [Borrowing Power Calculator](https://www.nab.com.au/personal/home-loans/calculators/borrowing-calculator),
   which recorded about 15k users visiting the app within the first week after production launch and the tool is now in top 8 of most used tools.
 - Researched Kafka, NAB’s Kafka ecosystem and organized seminars to share knowledge and guide multiple engineering teams, which reduces
