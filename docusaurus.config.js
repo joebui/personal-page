@@ -1,7 +1,15 @@
 // @ts-check
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
-const { cocoon, github, linkedin, about, blog, TITLE } = require("./constant");
+const {
+  cocoon,
+  github,
+  linkedin,
+  about,
+  blog,
+  TITLE,
+  medium,
+} = require("./constant");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -25,6 +33,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarTitle: "All posts",
+          blogSidebarCount: "ALL",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -64,8 +74,8 @@ const config = {
             position: "right",
           },
           {
-            href: github.GITHUB_REPO_URL,
-            label: github.GITHUB,
+            label: medium.TITLE,
+            href: medium.URL,
             position: "right",
           },
         ],
@@ -96,6 +106,10 @@ const config = {
               {
                 label: linkedin.LINKEDIN,
                 href: linkedin.LINKEDIN_PROFILE_URL,
+              },
+              {
+                label: medium.TITLE,
+                href: medium.URL,
               },
             ],
           },
