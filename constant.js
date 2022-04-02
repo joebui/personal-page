@@ -8,6 +8,10 @@ module.exports = {
     GITHUB: "GitHub",
     GITHUB_REPO_URL: "https://github.com/joebui/personal-page",
   },
+  medium: {
+    TITLE: "Medium",
+    URL: "https://dienbui.medium.com",
+  },
   cocoon: {
     PROJECT_COCOON: "Project Cocoon",
     PROJECT_COCOON_PATH: "/projectcocoon",
