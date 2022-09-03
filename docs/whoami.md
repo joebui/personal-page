@@ -10,16 +10,16 @@ I'm Spider Man (just kidding 🙃 )
 
 ---
 
-My full name is **Bùi Quang Điền** in Vietnamese, **Dien Bui** in English writing and **Joe (Joseph) Bui** as my nickname.
+My full name is **Bùi Quang Điền** in Vietnamese, **Dien Bui** in English writing and **Joe Bui** as my nickname.
 
 I have been studying and working in software engineering & computer science field since 2013. I have had about 5 years of
-working experience in software industry from startup to enterprise companies.
+working experience in software industry including outsourcing, startup, and enterprise companies.
 
 I have had experience with the following technology stacks:
 
 - **Frontend**: React.js, Node.js, Typescript, GraphQL, REST API
 - **Backend**: Node.js, Typescript, Ruby on Rails, GraphQL, REST API, OpenAPI, Docker
-- **Event-driven broker**: Kafka, RabbitMQ
+- **Event-driven broker**: Kafka
 - **Database**: SQL, MySQL, PostgreSQL, Elasticsearch
 - **Devops tools**: Terraform, Ansible, Jenkins, Nginx, Docker
 - **Cloud computing & infrastructure**: Amazon Web Services (AWS), microservice
@@ -39,9 +39,7 @@ One of my achievements that I feel most proud of is the [AWS Certified Solutions
 
 If you want to reach out to me for work or even non-work stuffs, please feel free to reach out to me via any of these methods:
 
-- **Email**:
-  - work: <dienbui11@gmail.com>
-  - non-work: <dienbuijoe@outlook.com>
+- **Email**: <dienbui11@gmail.com>
 - **LinkedIn®**: <https://www.linkedin.com/in/dienbui>
 - **Telegram**: `@joebui`
 - **Skype** (not frequently used): `dien_bui`
