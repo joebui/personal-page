@@ -8,17 +8,18 @@ sidebar_position: 2
 
 **Senior Analyst, Engineer @ [National Australia Bank](https://www.nab.com.au) | Jan 2021 - present**
 
-- Refactoring CI/CD configuration of microservices and web apps to adapt with NAB's engineering standard, which also adheres to enterprise compliance,
-  improves code quality and security and ensure CI/CD's consistency across multiple services within NAB.
-- Received NAB recognition from Engineering Manager in Melbourne team for consistent engagement in all development aspect, deep technical and business knowledge, commitment and high quality delivery of important features.
+- Provided technical support and guidance related to AWS, Jenkins CI/CD, and cloud infrastructure for engineering teams
+- Worked as DevOps engineer to build custom CI CD pipeline for Terraform code repository and Jenkins job to scaffold Terraform repository.
+- Trained and mentored a group of 8 freshers for NAB's Starcamp program, which won 2nd runner-up award for capstone project. Received best mentor
+  award and recognition
+- Migrated existing microservices and web apps to new AWS account to adhere to NAB's engineering standard and enterprise compliance,
+  improves code quality and security, and ensure CI/CD's consistency across multiple services within NAB.
 - Integrated existing microfrontends with AppDynamic to setup real user monitoring (RUM).
 - Implemented [Borrowing Power Calculator](https://www.nab.com.au/personal/home-loans/calculators/borrowing-calculator),
   which recorded about 15k users visiting the app within the first week after production launch and the tool is now in top 8 of most used tools.
 - Researched Kafka, NAB’s Kafka ecosystem and organized seminars to share knowledge and guide multiple engineering teams, which reduces
   members’ learning time and learning curve.
 - Built internal npm package to allow microservices to easily integrate with NAB’s internal Kafka for publishing and consuming messages.
-- Received NAB recognition and appraisal from principal quality engineer, senior engineers and team members for hard work, dedication,
-  contribution to product’s quality and activeness in sharing knowledge.
 
 **Software Engineer @ [SalesHood](https://saleshood.com) | Mar 2017 - Dec 2020**
 
@@ -68,9 +69,3 @@ sidebar_position: 2
 - Implemented CI/CD pipelines to automate code build, code deployment and ops tasks using Jenkins and GitLab CI.
 - Built AWS infrastructure to host core web applications and internal sites by leveraging IaC with Terraform.
 - Implemented CDN, WAF and DDoS protection service using Cloudflare.
-
----
-
-## Formal resume
-
-Please check out my [public CV on Google Docs](https://docs.google.com/document/d/19E9GRY6U_yJDnywPLCvribQjp6mFm4eSk23GQZj4m8M/edit?usp=sharing).
